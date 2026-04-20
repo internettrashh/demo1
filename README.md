@@ -55,7 +55,7 @@ Follow these steps to get started with the react-vite-ts template:
 - yarn dev - Starts the development server.
 - yarn build - Builds the production-ready code.
 - yarn lint - Runs ESLint to analyze and lint the code.
-- yarn preview - Starts the Vite development server in preview mode.
+- yarn preview - Starts the Vite development server in preview mode
 
 ## 📂 Project Structure
 
